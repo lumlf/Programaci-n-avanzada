@@ -1,0 +1,36 @@
+*{
+    margin: 10px;
+}
+
+body{
+    background: #e5c5b5;
+}
+
+
+p{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+.navegar{
+    padding: 10px;
+    background: #c56183;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+
+}
+a{
+    color: #94b4a4;
+    display: inline-block;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #d2f5e3;
+}
