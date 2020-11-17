@@ -1,0 +1,11 @@
+Nombre: asd
+Intentos: 1
+Cifras: 5Nombre: william
+Intentos: 2
+Cifras: 4Nombre: sergio
+Intentos: 8
+Cifras: 3Nombre: Luisa
+Intentos: 1
+Cifras: 3Nombre: Luisa
+Intentos: 5
+Cifras: 3
